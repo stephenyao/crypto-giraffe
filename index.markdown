@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Thoughts and learnings about cryptocurrencies, by Stephen Yao.
