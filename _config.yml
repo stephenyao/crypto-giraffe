@@ -22,8 +22,8 @@ title: Crypto Giraffe
 email: stephenryao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My learnings and thoughts about cryptocurrencies
-baseurl: "crypto-giraffe" # the subpath of your site, e.g. /blog
-url: "https://stephenyao.github.io/crypto-giraffe/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://stephenyao.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
