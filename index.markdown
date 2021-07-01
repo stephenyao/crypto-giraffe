@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Thoughts and learnings about cryptocurrencies, by Stephen Yao.
+Thoughts and learnings about anything I'm interested in, by Stephen Yao.
