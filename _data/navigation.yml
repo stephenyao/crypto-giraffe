@@ -1,6 +1,3 @@
-- title: About
-  url: /about/
-- title: Archive
-  url: /archive/
-- title: Categories
-  url: /categories/
+main:
+  - title: "About"
+    url: /about/
