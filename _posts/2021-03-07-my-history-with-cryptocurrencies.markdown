@@ -1,0 +1,19 @@
+---
+layout: single
+title:  "My history with cryptocurrencies"
+date:   2021-06-28 23:59:40 +1000
+---
+
+I bought my first parcel of Bitcoin (BTC) in September 2016. The price was $3000 USD per BTC. My knowledge at this time about BTC and cryptocurrencies in general was very little, and what I did learn was mostly from Youtube content creators and articles published by News outlets. Speculation was starting to soar and demand was being pumped up by the media. I had thought at the time that the price of BTC was relatively expensive, as it was not only a year ago when prices were below the $1000 mark. Little did I know that BTC and the cryptocurrencies market was about to go on a huge bull run that would see prices pump to all time highs of just below $20,000 per BTC.
+
+When it did happen, I was elated, and blamed myself for not buying more. Calculations kept racing through my mind everyday. "If only I had put in X, I would have Y by now." This led me to go on an obssession of studying the price of BTC. I started to study technical analysis, constantly looked at the charts, trying to make profits by trading in and out, still knowing nothing more about how BTC worked, what its uses are and what it could mean for the future of finance.
+
+Needless to say I didn't make much profits. When BTC crashed backed down I HODL'd but started to think the whole thing was a sham. And of course I did. I bought into it with FOMO like everyone else, and when the hype cooled, the prices dumped. I left my remaining BTC on Coinbase and didn't touch it again for a while until 2019, when prices started to pump again. Humans are emotional beings, and without concious reflection we will react to the same events again with the same set of outcomes. I won't go into detail about what happened during this bull run but the conclusion is I sold out of all my positions having made very little, and once again started to think BTC was a sham.
+
+I'm sure a lot of people experienced the same as me, and if you look at the BTC price chart over the past few years, you can summarise it as one big emotional roller coaster. 
+
+![image info](../assets/images/btc-chart.png)
+
+The price of BTC is now moving around the $33,000 mark. And once again, the emotional human inside me is intrigued. I'm asking myself questions like "Why didn't I hodl more?" and "Why didn't I buy more?", and at the same time thinking, it's way too late to jump onto the train now, despite prices having dropped by almost 50% from it's all time highs. At the same time, I can't help to think that more opportunities are coming. Many friends have told me BTC is a bubble, while others have said the price will reach $1 million by the end of the decade. All these people probably know as much about BTC as I do. I have thought about this a lot and find it interesting that people are so confident in what they say with such little knowledge. Where do they get those ideas? How do they formulate facts? 
+
+I conclude that no one really knows what the price of BTC will be next month, let alone by the end of the decade. Anyone telling you otherwise is simply speculating, but speculation without knowledge is a fools errand. This year BTC was able to reach $1 trillion in market cap, has attracted investment from institutions like Square and Tesla, and is in the early stages of being adopted by El Salvador. And I'm sure these institutions and counties are not diving in studying Youtube videos and reading speculative news articles, or talking to their friend Joe and asking them what they think. I'll be changing my approach to BTC and cyrptocurrencies too, by doing in depths studies on how they work, what their utilities are and hopefully as a result making some better informed decisions about my investment choices than I have done in the past.
