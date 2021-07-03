@@ -2,6 +2,7 @@
 layout: single
 title:  "My history with cryptocurrencies"
 date:   2021-07-03 15:29:40 +1000
+categories: cryptocurrency
 ---
 
 I bought my first parcel of Bitcoin (BTC) in September 2016. The price was $3000 USD per BTC. My knowledge at this time about BTC and cryptocurrencies in general was very little, and what I did learn was mostly from Youtube content creators and articles published by News outlets. Speculation was starting to soar and demand was being pumped up by the media. I had thought at the time that the price of BTC was relatively expensive, as it was not only a year ago when prices were below the $1000 mark. Little did I know that BTC and the cryptocurrencies market was about to go on a huge bull run that would see prices pump to all time highs of just below $20,000 per BTC.

@@ -1,3 +1,5 @@
 main:
+  - title: "Cryptocurrency"
+    url: /cryptocurrency
   - title: "About"
     url: /about/

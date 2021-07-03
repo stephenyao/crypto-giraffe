@@ -266,7 +266,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -278,5 +277,4 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
       related: true
