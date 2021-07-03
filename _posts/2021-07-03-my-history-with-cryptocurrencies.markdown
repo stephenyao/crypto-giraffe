@@ -13,7 +13,7 @@ Needless to say I didn't make much profits. When BTC crashed backed down I HODL'
 
 I'm sure a lot of people experienced the same as me, and if you look at the BTC price chart over the past few years, you can summarise it as one big emotional roller coaster. 
 
-![image info](../assets/images/btc-chart.png)
+![image info](/assets/images/btc-chart.png)
 
 The price of BTC is now moving around the $33,000 mark. And once again, the emotional human inside me is intrigued. I'm asking myself questions like "Why didn't I hodl more?" and "Why didn't I buy more?", and at the same time thinking, it's way too late to jump onto the train now, despite prices having dropped by almost 50% from it's all time highs. At the same time, I can't help to think that more opportunities are coming. Many friends have told me BTC is a bubble, while others have said the price will reach $1 million by the end of the decade. All these people probably know as much about BTC as I do. I have thought about this a lot and find it interesting that people are so confident in what they say with such little knowledge. Where do they get those ideas? How do they formulate facts? 
 
